@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oliver</h1>
+<h1 align="center">𝙷𝚒 <img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/waving-hi.gif" width="50"> 𝙸'𝚖 𝙾𝚕𝚒𝚟𝚎𝚛</h1>
 <h4 align="center"> <img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/Champlain_College_seal.png" width="15"> Learning about Networking and Cybersecurity @ Champlain College </h4>
 <h4 align="center"> <img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/1576605441126.png" width="17"> DevOps Researcher @ The Leahy Center </h4>
 
@@ -13,3 +13,5 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Oliver-Mustoe&show_icons=true&theme=radical" width="350"></a>
 </p>
 
+
+Github Technical Journal is available upon employer request.
