@@ -14,4 +14,4 @@
 </p>
 
 
-Github Technical Journal is available upon employer request.
+📫 Github Technical Journal is available upon employer request.
