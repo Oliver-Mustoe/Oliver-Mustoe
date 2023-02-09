@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/giphy.gif" width="50"> I'm Oliver</h1>
+<h1 align="center">Hi, I'm Oliver<img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/giphy.gif" width="50"></h1>
 <h4 align="center"> <img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/Champlain_College_seal.png" width="15"> Learning about Networking and Cybersecurity @ Champlain College </h4>
 <h4 align="center"> <img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/1576605441126.png" width="17"> DevOps Researcher @ The Leahy Center </h4>
 
