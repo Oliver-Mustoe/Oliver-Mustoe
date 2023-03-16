@@ -9,7 +9,6 @@
   
 [![Linkedin: Oliver Mustoe](https://img.shields.io/badge/-oliverjmustoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliver-j-mustoe/)](https://www.linkedin.com/in/oliver-j-mustoe/)
 
-📫 Github Technical Journal is available upon employer request.
 
 
 <p align='center'>
