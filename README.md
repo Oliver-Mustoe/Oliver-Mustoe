@@ -11,7 +11,7 @@
 ---
 
 - 🔭 I’m currently working on various projects related to **DevOps, Enterprise security, Cyber Defense, and Automation**
-- 🌱 I’m constantly learning and improving my skills in **Python, Shell Scripting, and Powershell**
+- 🌱 I’m constantly learning and improving my skills in **Python, Ansible, and Powershell**
 - 💬 Ask me about **Networking, Cybersecurity, and DevOps**
 - 📫 How to reach me: [![Linkedin: Oliver Mustoe](https://img.shields.io/badge/-oliverjmustoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliver-j-mustoe/)](https://www.linkedin.com/in/oliver-j-mustoe/)
 - 😄 Pronouns: He/Him
