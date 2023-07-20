@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/Champlain_College_seal.png" width="15"> **Learning about Networking and Cybersecurity @ Champlain College**
 
-<img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/1576605441126.png" width="17"> **DevOps Researcher @ The Leahy Center**
+<img src="https://raw.githubusercontent.com/Oliver-Mustoe/Oliver-Mustoe/main/git_images/1576605441126.png" width="17"> **DevOps Technician @ The Leahy Center**
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%230071c5.svg?style=for-the-badge&logo=microsoft-defender&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-%2300adb5.svg?style=for-the-badge&logo=cisco&logoColor=white)
