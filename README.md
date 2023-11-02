@@ -16,7 +16,7 @@
 - 📫 How to reach me: [![Linkedin: Oliver Mustoe](https://img.shields.io/badge/-oliverjmustoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliver-j-mustoe/)](https://www.linkedin.com/in/oliver-j-mustoe/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubiks cube in under 2 minutes (used to be faster :laughing:) !
-- 💝 Technical journal available upon employer request!
+- 💝 Technical journal can be found below!
 ***
 
 ## 🛠️ Technologies & Tools
