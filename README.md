@@ -34,9 +34,9 @@
 
 
 ## 📊 GitHub Stats
-
+<!---
 ![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliver-Mustoe&show_icons=true&theme=radical)
-
+--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-Mustoe&layout=compact&theme=radical)](https://github.com/olivermustoe/github-readme-stats)
 
 ---
